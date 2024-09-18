@@ -13,9 +13,9 @@ menu_settings:
     - title: 'MyDay'
       url: '/blog/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     # - title: 'Contact'
-    #   url: '/contact/'
+    #   url: '/contact'
 
 footer_settings:
   footer_tagline: The past is never dead. It's not even past.
@@ -27,7 +27,7 @@ grid_settings:
 
 contact_settings:
   form_action: ''
-  confirmation_url: '/thanks/'
+  confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
