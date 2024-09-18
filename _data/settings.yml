@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Board
-  favicon_image: /images/favicon.png
+  site_title: Kefan
+  favicon_image: /images/icon.png
 
 header_settings:
   logo_image: 
