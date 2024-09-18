@@ -9,7 +9,7 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 Copy the theme files to your website directory.
 
 To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
-
+<!-- http://127.0.0.1:4000/ -->
 ---
 
 ## Jekyll basics
