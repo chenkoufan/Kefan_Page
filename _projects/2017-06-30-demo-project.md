@@ -7,6 +7,7 @@ featured_image: '/images/gh/gh.png'
 ---
 
 ![](/images/gh/gh.png)
+![]({{site.baseurl}}/images/gh/gh.png)
 
 ## Demo content
 

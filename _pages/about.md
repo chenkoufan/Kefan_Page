@@ -8,7 +8,7 @@ featured_image: /images/demo/landscape-05.jpg
 ![](/images/demo/landscape-05.jpg)
 
 ## Features
-[关于我们]({{ "/test" | relative_url }})
+<!-- [关于我们]({{ "/test" | relative_url }}) -->
 
 We've packed Board full of powerful features to help showcase your work:
 
