@@ -6,7 +6,7 @@ description: Board is a stylish full-width masonry grid theme. Made for designer
 featured_image: '/images/CustomeFootprint/yolo_test.jpg'
 ---
 
-![](/images/CustomeFootprint/yolo_test.jpg)
+![]({{site.baseurl}}/images/CustomeFootprint/yolo_test.jpg)
 
 ## Demo content
 
