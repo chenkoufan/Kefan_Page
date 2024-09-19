@@ -1,7 +1,7 @@
 site: Kefan_Chen Arch
 
-url: 
-baseurl: 
+url: https://chenkoufan.github.io/Kefan_Page
+baseurl: https://chenkoufan.github.io/Kefan_Page
 
 collections:
   pages:
