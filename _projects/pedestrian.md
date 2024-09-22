@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'CustomeFootprint'
+subtitle: ''
 date: 2018-06-30 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
 featured_image: '/images/Projects/CustomeFootprint/standing_eating.gif'
 ---
 
-![]({{site.baseurl}}/images/Projects/CustomeFootprint/standing_eating.gif)
+![]({{site.baseurl}}/images/Projects/CustomeFootprint/Kefan_0322.pdf)
 
 ## Demo content
 
