@@ -21,7 +21,7 @@ featured_image: /images/demo/landscape-05.jpg
     };
     (function() {
         var d = document, s = d.createElement('script');
-        s.src = 'kefan-page';  // 替换为您 Disqus 站点的短名称
+        s.src = 'https://kefan-page.disqus.com/embed.js';  // 替换为您 Disqus 站点的短名称
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
     })();
