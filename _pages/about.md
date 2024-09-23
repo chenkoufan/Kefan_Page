@@ -13,14 +13,21 @@ featured_image: /images/demo/landscape-05.jpg
     <img src="{{site.baseurl}}/images/About/Kefan_Chen_092024.png">
 </div> -->
 
-<div id="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<div id="disqus_thread"></div>
 <script>
-    commentBox('5728765044850688-proj', {
-        className: 'commentbox', // (Optional) Custom class to target your commentbox
-        defaultBoxId: 'commentbox'  // (Optional) default ID of the commentbox
-    });
+    var disqus_config = function () {
+        this.page.url = window.location.href;  // 使用页面 URL
+        this.page.identifier = window.location.pathname;  // 使用页面路径
+    };
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = 'kefan-page';  // 替换为您 Disqus 站点的短名称
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 </script>
+<noscript>请启用 JavaScript 以查看评论。</noscript>
+
 
 
 <div style="text-align: right; margin-right: 25px;">
