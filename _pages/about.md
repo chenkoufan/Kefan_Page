@@ -31,7 +31,7 @@ featured_image: /images/demo/landscape-05.jpg
 
 
 <div style="text-align: right; margin-right: 25px;">
-    <strong><a href="https://miro.com/welcomeonboard/cmJqbk93YllOWExIVk9WbWRVak91YjNzMFZmR25TTnZoeWdma3RMczFQejRpd1UySGl1RmpnRDNzdWplcG9rUXwzNDU4NzY0NTY3MzgyMDc5OTIzfDI=?share_link_id=715339690278" style="text-decoration: underline; text-decoration-color: rgb(150, 255, 255, 1); font-size: 20px">Leave a message?✍️</a></strong><br>
+    <strong><a href="https://miro.com/welcomeonboard/cmJqbk93YllOWExIVk9WbWRVak91YjNzMFZmR25TTnZoeWdma3RMczFQejRpd1UySGl1RmpnRDNzdWplcG9rUXwzNDU4NzY0NTY3MzgyMDc5OTIzfDI=?share_link_id=715339690278" style="text-decoration: underline; text-decoration-color: rgb(150, 255, 255, 1); font-size: 20px">Shared MiroBoard✍️</a></strong><br>
     <br>
     <strong><a style="font-size: 20px">↓Contact📣↓</a></strong>
 </div>
