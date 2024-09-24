@@ -12,8 +12,10 @@ menu_settings:
       url: '/'
     - title: 'MyDay'
       url: '/blog/'
-    - title: 'About'
+    - title: 'AboutMe'
       url: '/about'
+    - title: 'Favorites'
+      url: '/favorites'
     # - title: 'Contact'
     #   url: '/contact'
 
@@ -60,7 +62,7 @@ social_settings:
   linkedin_url: 'https://www.linkedin.com/in/kefan-chen-b251b528b/'
 
 color_settings:
-  background_color: '#ffffff'
+  background_color: '#fafafa'
   background_alt_color: '#f4f5f6'
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
