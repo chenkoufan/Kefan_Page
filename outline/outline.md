@@ -10,7 +10,9 @@ ML view
 restaurant
 p5js
 portfolio*4
+resilience
+structure
 bamboo
 
 
-## 
+## myDay
