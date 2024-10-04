@@ -1,0 +1,52 @@
+.kgallery {
+    max-width: 100vw; /* 让画廊占据视口的最大宽度 */
+    margin: 0; /* 移除外边距 */
+    padding: 0; /* 移除内边距 */
+}
+
+.kgallery__item {
+    display: flex; /* 使用 flexbox 进行水平布局 */
+    justify-content: flex-start; /* 从左到右排列 */
+    align-items: flex-end; /* 确保图片和文字底部对齐 */
+    width: 100%; /* 每个项占满父容器的宽度 */
+    margin-bottom: 20px; /* 控制每个项之间的间距 */
+    padding: 0; /* 移除任何内边距 */
+}
+
+.kgallery__item img {
+    flex-grow: 1; /* 图片自适应占据剩余空间 */
+    max-width: 80%; /* 图片最大宽度为100% */
+    height: auto; /* 保持图片比例 */
+    margin: 0; /* 移除外边距 */
+    padding: 0; /* 移除内边距 */
+}
+
+.kgallery__caption {
+    width: 450px; /* 固定配文宽度 */
+    margin-left: 10px; /* 图片与配文之间的间距 */
+    padding: 0; /* 移除内边距 */
+
+}
+
+.kgallery__caption p {
+    font-size: 14px; /* 设置文字大小 */
+    line-height: 1.0;
+    color: #555;
+    word-wrap: break-word; /* 强制文字换行 */    
+    margin: 0; /* 移除段落外边距 */
+    padding: 0; /* 移除内边距 */
+    text-align: justify; /* 设置两端对齐 */
+}
+
+/* 媒体查询 */
+@media (min-width: 768px) {
+    .kgallery__caption {
+        width: 200px; /* 平板设备宽度 */
+    }
+}
+
+@media (min-width: 1024px) {
+    .kgallery__caption {
+        width: 300px; /* 大屏幕设备宽度 */
+    }
+}
