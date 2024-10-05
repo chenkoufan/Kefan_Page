@@ -15,7 +15,8 @@
 
 .kgallery__item img {
     flex-grow: 1; /* 图片自适应占据剩余空间 */
-    max-width: 80%; /* 图片最大宽度为100% */
+    width: auto;
+    max-width: 75%; /* 图片最大宽度为100% */
     height: auto; /* 保持图片比例 */
     margin: 0; /* 移除外边距 */
     padding: 0; /* 移除内边距 */
@@ -29,6 +30,7 @@
 }
 
 .kgallery__caption p {
+    font-family: "PingFang SC", "Microsoft YaHei", sans-serif; /* 设置清晰黑体或无衬线字体 */
     font-size: 14px; /* 设置文字大小 */
     line-height: 1.0;
     color: #555;
