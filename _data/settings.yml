@@ -14,7 +14,7 @@ menu_settings:
       url: '/blog/'
     - title: 'AboutMe'
       url: '/about'
-    - title: 'Favorites'
+    # - title: 'Favorites'
       url: '/favorites'
     # - title: 'Contact'
     #   url: '/contact'
@@ -89,7 +89,7 @@ font_settings:
   menu:
     small_size: 30
     medium_size: 14
-    large_size: 15
+    large_size: 17
     weight: 500
     letter_spacing: 0
   grid_item_title:
