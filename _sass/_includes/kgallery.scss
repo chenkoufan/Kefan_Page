@@ -13,12 +13,14 @@
     padding: 0; /* 移除任何内边距 */
 }
 
+
+
 .kgallery__item img {
     flex-grow: 1; /* 图片自适应占据剩余空间 */
     width: auto;
     max-width: 80%; /* 图片最大宽度为80% */
     height: auto; /* 保持图片比例 */
-    max-height: 800px;
+    max-height: 850px;
     object-fit: contain; /* 保持图片比例 */
     margin-left: auto; /* 移除外边距 */
     padding: 0; /* 移除内边距 */
