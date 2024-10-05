@@ -5,17 +5,21 @@ description: B
 featured_image: /images/demo/landscape-05.jpg
 ---
 
-![]({{site.baseurl}}/images/About/van.png)
+<!-- ![]({{site.baseurl}}/images/About/van.png) -->
 
-<!-- <div class="gallery" data-columns="3">
-    <img src="{{site.baseurl}}/images/About/陈可凡简历合集_页面_1.png">
-    <img src="{{site.baseurl}}/images/About/陈可凡简历合集_页面_2.png">
-    <img src="{{site.baseurl}}/images/About/Kefan_Chen_092024.png">
+<!-- <div class="gallery" data-columns="1">
+    <img src="{{site.baseurl}}/images/About/van.png">
 </div> -->
 
-<!-- *Refresh to see all comments* -->
+<div class="kgallery__item">
+        <img src="{{site.baseurl}}/images/About/van.png" alt="Eating behavior">
+        <div class="kgallery__caption">
+            <p><strong>Cornell AAP MDC/MSDT</strong></p>
+            <p><a href="https://www.sciencedirect.com/science/article/pii/S0360132323004110?via%3Dihub" style="text-decoration: underline; text-decoration-color: rgb(0, 165, 171, 1);"><span style="font-size: inherit; font-weight: inherit;">Environmental System Lab</span></a></p>
+        </div>
+    </div>
 
-<br><br>
+<!-- <br><br> -->
 <div style="text-align: center;">
     <strong><a style="color: rgb(0, 165, 171, 1);font-size: 20px; font-style: italic;">REFRESH</a></strong>
     <a style="font-size: 15px; font-style: italic;"> to see all comments ↓</a>
