@@ -14,26 +14,24 @@
 }
 
 .kgallery__item img {
-    // float: right;
     flex-grow: 1; /* 图片自适应占据剩余空间 */
     width: auto;
-    max-width: 80%; /* 图片最大宽度为100% */
+    max-width: 80%; /* 图片最大宽度为80% */
     height: auto; /* 保持图片比例 */
-    max-height: 900px   ;
+    max-height: 800px;
     object-fit: contain; /* 保持图片比例 */
     margin-left: auto; /* 移除外边距 */
     padding: 0; /* 移除内边距 */
+    border-right: 2px solid #bebebe; /* 添加图片容器的右边线，颜色为黑色，宽度为2px */
 }
 
 .kgallery__caption {
-    width: 450px; /* 固定配文宽度 */
+    width: 450px; /* 固定文字宽度 */
     margin-left: 12px; /* 图片与配文之间的间距 */
     padding: 0; /* 移除内边距 */
-
 }
 
 .kgallery__caption p {
-    // font-family: "PingFang SC", "Microsoft YaHei", sans-serif; /* 设置清晰黑体或无衬线字体 */
     font-size: 15px; /* 设置文字大小 */
     line-height: 1.2;
     color: #555;
