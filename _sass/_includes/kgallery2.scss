@@ -1,0 +1,57 @@
+.kgallery2 {
+    max-width: 100vw; /* 让画廊占据视口的最大宽度 */
+    margin: 0; /* 移除外边距 */
+    padding: 0; /* 移除内边距 */
+    display: flex; /* 使用 flexbox 进行水平布局 */
+    justify-content: flex-start; /* 确保内容从左到右排列 */
+    align-items: flex-start; /* 图片和文字顶部对齐 */
+}
+
+.kgallery2__left {
+    display: flex; /* 左边区域用于放置两张图片 */
+    flex-grow: 1; /* 占据可用剩余空间 */
+    gap: 12px; /* 设置两张图片之间的间距 */
+}
+
+.kgallery2__item {
+    flex-grow: 1; /* 确保每张图片均分空间 */
+    margin: 0;
+    padding: 0;
+}
+
+.kgallery2__item img {
+    width: 100%; /* 图片占满父容器的宽度 */
+    height: auto; /* 保持图片比例 */
+    margin: 0;
+    padding: 0;
+}
+
+.kgallery2__caption {
+    width: 450px; /* 固定文字宽度 */
+    margin-left: 12px; /* 图片与文字之间的间距 */
+    padding: 0; /* 移除内边距 */
+}
+
+.kgallery2__caption p {
+    font-family: "PingFang SC", "Microsoft YaHei", sans-serif; /* 设置清晰黑体或无衬线字体 */
+    font-size: 15px; /* 设置文字大小 */
+    line-height: 1.0;
+    color: #555;
+    word-wrap: break-word; /* 强制文字换行 */    
+    margin: 0; /* 移除段落外边距 */
+    padding: 0; /* 移除内边距 */
+    text-align: justify; /* 设置两端对齐 */
+}
+
+/* 媒体查询 */
+@media (min-width: 768px) {
+    .kgallery2__caption {
+        width: 200px; /* 平板设备宽度 */
+    }
+}
+
+@media (min-width: 1024px) {
+    .kgallery2__caption {
+        width: 300px; /* 大屏幕设备宽度 */
+    }
+}

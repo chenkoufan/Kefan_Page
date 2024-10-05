@@ -14,6 +14,8 @@ featured_image: /images/demo/landscape-05.jpg
 </div> -->
 
 <!-- *Refresh to see all comments* -->
+
+<br><br>
 <div style="text-align: center;">
     <strong><a style="color: rgb(0, 165, 171, 1);font-size: 20px; font-style: italic;">REFRESH</a></strong>
     <a style="font-size: 15px; font-style: italic;"> to see all comments ↓</a>

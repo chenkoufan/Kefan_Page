@@ -14,25 +14,28 @@
 }
 
 .kgallery__item img {
+    // float: right;
     flex-grow: 1; /* 图片自适应占据剩余空间 */
     width: auto;
-    max-width: 75%; /* 图片最大宽度为100% */
+    max-width: 80%; /* 图片最大宽度为100% */
     height: auto; /* 保持图片比例 */
-    margin: 0; /* 移除外边距 */
+    max-height: 900px   ;
+    object-fit: contain; /* 保持图片比例 */
+    margin-left: auto; /* 移除外边距 */
     padding: 0; /* 移除内边距 */
 }
 
 .kgallery__caption {
     width: 450px; /* 固定配文宽度 */
-    margin-left: 10px; /* 图片与配文之间的间距 */
+    margin-left: 12px; /* 图片与配文之间的间距 */
     padding: 0; /* 移除内边距 */
 
 }
 
 .kgallery__caption p {
-    font-family: "PingFang SC", "Microsoft YaHei", sans-serif; /* 设置清晰黑体或无衬线字体 */
-    font-size: 14px; /* 设置文字大小 */
-    line-height: 1.0;
+    // font-family: "PingFang SC", "Microsoft YaHei", sans-serif; /* 设置清晰黑体或无衬线字体 */
+    font-size: 15px; /* 设置文字大小 */
+    line-height: 1.2;
     color: #555;
     word-wrap: break-word; /* 强制文字换行 */    
     margin: 0; /* 移除段落外边距 */
