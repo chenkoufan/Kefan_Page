@@ -1,18 +1,19 @@
 ## project_timeline
-thesis-secret ongoing P
-inde-diagram P
-comfyui O
-footprint-detailed P
-unity-gif O 
-weather station O 
-gh coding P
-ML view O
-restaurant P
-p5js P
-portfolio*4
-resilience O
-structure O
-bamboo O
+thesis-secret ongoing ok
+inde-diagram
+comfyui
+footprint-detailed ok
+unity-gif ok
+weather station ok
+gh coding ok
+ML view pass
+restaurant ok
+p5js ok
+portfolio*4 ok
+resilience ok
+hotel high-rise ok 博物馆/客运站没图
+structure ok
+bamboo ok
 
 
 ## myDay
