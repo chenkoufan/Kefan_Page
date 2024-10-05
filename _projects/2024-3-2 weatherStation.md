@@ -9,7 +9,7 @@ featured_image: '/images/Projects/weather_station/set_video.gif'
 <div class="kgallery__item">
         <img src="{{site.baseurl}}/images/Projects/weather_station/finding.png" alt="Eating behavior">
         <div class="kgallery__caption">
-            <p><strong>Time:</strong> 2023Spring</p>
+            <p><strong>Time:</strong> 24Spring</p>
             <br><br>
             <p>Found that there is a significant difference in the distribution of people under different weather conditions, so we would like to record the local weather changes and use it to compare with the pedestrian data.</p>
         </div>
