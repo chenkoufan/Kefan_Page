@@ -1,5 +1,5 @@
 ---
-title: 'Maching Learning with Camera'
+title: 'Machine Learning with Camera'
 subtitle: 'Classifier views_experiments in AI studio'
 date: 2023-11-1
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
