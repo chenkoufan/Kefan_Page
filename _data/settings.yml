@@ -15,7 +15,7 @@ menu_settings:
     - title: 'AboutMe'
       url: '/about'
     # - title: 'Favorites'
-      url: '/favorites'
+      # url: '/favorites'
     # - title: 'Contact'
     #   url: '/contact'
 
