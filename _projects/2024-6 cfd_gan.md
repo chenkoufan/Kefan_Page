@@ -9,7 +9,8 @@ featured_image: 'images/Projects/cfd_gan/cover.png'
 <div class="kgallery__item">
         <img src="{{site.baseurl}}/images/Projects/cfd_gan/coming.jpg" alt="Eating behavior">
         <div class="kgallery__caption">
-            <p><strong>Group:</strong> Patrick Kastner, Timur Dogan, Panagiotis Michalatos</p>
+            <p><strong>Group:</strong></p>
+            <p> Patrick Kastner(Gatech)</p><p>Timur Dogan(Cornell)</p><p>Panagiotis Michalatos(GSD)</p>
             <p><strong>Tools:</strong> Deep Learning | Simulation</p>
             <p><strong>Time:</strong> 24Sp-</p>
             <br><br>
