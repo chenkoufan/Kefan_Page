@@ -19,7 +19,7 @@ featured_image: '/images/Projects/CustomeFootprint/standing_eating.gif'
     <div class="kgallery__item">
         <img src="{{site.baseurl}}/images/Projects/CustomeFootprint/eating.gif" alt="Eating behavior">
         <div class="kgallery__caption">
-            <p><strong>Instructor:</strong> Panagiotis Michalatos, Nick Cassab</p>
+            <p><strong>Instructor:</strong> Panagiotis Michalatos, Nicholas Cassab</p>
             <p><strong>Tools:</strong> YOLO | CLIP | PYGLET | IMGUI</p>
             <p><strong>Time:</strong> 24Spring</p>
             <br><br>
