@@ -22,7 +22,6 @@ featured_image: /images/demo/landscape-05.jpg
 <!-- <br><br> -->
 <div style="text-align: center;">
     <strong><a style="color: rgb(0, 165, 171, 1); font-size: 20px; font-style: italic;text-decoration: underline; text-decoration-color: rgb(0, 165, 171, 1);" href="javascript:void(0);" onclick="location.reload();">REFRESH</a></strong>
-
     <a style="font-size: 15px; font-style: italic;"> to see all comments ↓</a>
 </div>
 

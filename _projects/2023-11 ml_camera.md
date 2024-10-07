@@ -18,7 +18,7 @@ featured_image: '/images/Projects/ml_camera/test_land.gif'
 <div class="gallery" data-columns="3">
   <img src="{{site.baseurl}}/images/Projects/ml_camera/test_view.GIF" alt="Eating">
   <img src="{{site.baseurl}}/images/Projects/ml_camera/test_light1.gif" alt="Eating">
-  <img src="{{site.baseurl}}/images/Projects/ml_camera/test_light2.gif" alt="Eating">
+  <img src="{{site.baseurl}}/images/Projects/ml_camera/test_light2.GIF" alt="Eating">
 
 </div>
 <p style="text-align: center;">Continuously search for the environment/viewpoint that best matches the setting</p>
