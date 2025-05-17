@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-ruby '3.3.0'
 gem 'jekyll', '3.8.5'
+# gem "rexml"  # Jekyll 3.x 需要手动加载 rexml
 
 group :jekyll_plugins do
   gem 'jekyll-paginate'
