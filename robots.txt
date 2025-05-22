@@ -1,1 +1,1 @@
-Sitemap: https://chenkoufan.github.io/Kefan_Page/sitemap.xml
+Sitemap: /sitemap.xml
