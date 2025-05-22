@@ -80,7 +80,7 @@ jobs:
       - name: Install and Build 🔧
         run:  |
          bundle install
-         bundle exec jekyll build --baseurl "/" 
+         bundle exec jekyll build 
 
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
