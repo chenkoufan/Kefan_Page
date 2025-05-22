@@ -78,7 +78,9 @@ jobs:
           bundler-cache: true
 
       - name: Install and Build 🔧
-        run:   bundle exec jekyll build
+        run:  |
+         bundle install
+         bundle exec jekyll build
 
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
