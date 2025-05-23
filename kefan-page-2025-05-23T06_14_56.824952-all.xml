@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<disqus xmlns="http://disqus.com" xmlns:dsq="http://disqus.com/disqus-internals" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd">
+<category dsq:id="9902981">
+<forum>kefan-page</forum>
+<title>General</title>
+<isDefault>true</isDefault>
+</category>
+<thread dsq:id="10328486145">
+<id>/Kefan_Page/about</id>
+<forum>kefan-page</forum>
+<category dsq:id="9902981" />
+<link>http://127.0.0.1:4000/Kefan_Page/about</link>
+<title>_-_About Me – Kefan:)</title>
+<message />
+<createdAt>2024-09-23T07:23:09Z</createdAt>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="10542592090">
+<id>/about</id>
+<forum>kefan-page</forum>
+<category dsq:id="9902981" />
+<link>https://kefan-page.pages.dev/about</link>
+<title>_-_About Me – Kefan:)</title>
+<message />
+<createdAt>2025-05-18T03:09:11Z</createdAt>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<thread dsq:id="10542684678">
+<id>Kefan_Page/about</id>
+<forum>kefan-page</forum>
+<category dsq:id="9902981" />
+<link>https://kefan-page.cn/about/Kefan_Page/about</link>
+<title>_-_About Me – Kefan:)</title>
+<message />
+<createdAt>2025-05-18T08:01:52Z</createdAt>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<isClosed>false</isClosed>
+<isDeleted>false</isDeleted>
+</thread>
+<post dsq:id="6555612947">
+<id />
+<message><![CDATA[<p>Check Check</p>]]></message>
+<createdAt>2024-09-23T07:27:35Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555613647">
+<id />
+<message><![CDATA[<p>nice work!!!</p>]]></message>
+<createdAt>2024-09-23T07:30:15Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>mariwu</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555613890">
+<id />
+<message><![CDATA[<p>nice work!!!!</p>]]></message>
+<createdAt>2024-09-23T07:31:08Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>mariwu</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555615446">
+<id />
+<message><![CDATA[<p><a href="https://media2.giphy.com/media/3fiimcA0K0ifzoL7FF/giphy-downsized-small.mp4" rel="nofollow noopener" target="_blank" title="https://media2.giphy.com/media/3fiimcA0K0ifzoL7FF/giphy-downsized-small.mp4">https://media2.giphy.com/me...</a></p>]]></message>
+<createdAt>2024-09-23T07:36:49Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<thread dsq:id="10328486145" />
+<parent dsq:id="6555613647" />
+</post>
+<post dsq:id="6555625261">
+<id />
+<message><![CDATA[<p>Wow! Just wow! This is genius. Seriously, mind-blowing work! Get ready to have your mind blown, everyone. Jesus Christ, I can't believe how amazing this is! Your talent is off the charts！</p>]]></message>
+<createdAt>2024-09-23T08:07:55Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>Rancho</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555626485">
+<id />
+<message><![CDATA[<p>check</p>]]></message>
+<createdAt>2024-09-23T08:11:46Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>Kefan Chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kefan_chen</username>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555660034">
+<id />
+<message><![CDATA[<p>hi</p>]]></message>
+<createdAt>2024-09-23T09:56:02Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>k</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555662025">
+<id />
+<message><![CDATA[<p>Man! What can I say? <br>You know, Koufan is my brother.This guy is a genius, especially in xp. I have never seen anyone as talented as him. This guy is incredibly strong, and I believe that he can produce good chemical reactions with anyone. He can take his talent wherever he wants.I wish him all the best.</p>]]></message>
+<createdAt>2024-09-23T10:01:48Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>MambaOut</name>
+<isAnonymous>false</isAnonymous>
+<username>disqus_AqItUmPnMH</username>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555663753">
+<id />
+<message><![CDATA[<p>(if want to skip register/如果不想注册) <a href="https://uploads.disquscdn.com/images/ec7d13f5ffda74972824c596bb3b6c5cc8c57edcfd4f5a6ba83285244ea1d3d0.png" rel="nofollow noopener" target="_blank" title="https://uploads.disquscdn.com/images/ec7d13f5ffda74972824c596bb3b6c5cc8c57edcfd4f5a6ba83285244ea1d3d0.png">https://uploads.disquscdn.c...</a></p>]]></message>
+<createdAt>2024-09-23T10:06:50Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555664510">
+<id />
+<message><![CDATA[<p>(if want to skip register/如果不想注册) <a href="https://uploads.disquscdn.com/images/1de7afe1c904ecdf03a28354ac5346a44d9e70e0a116e331f431f891bffc1447.png" rel="nofollow noopener" target="_blank" title="https://uploads.disquscdn.com/images/1de7afe1c904ecdf03a28354ac5346a44d9e70e0a116e331f431f891bffc1447.png">https://uploads.disquscdn.c...</a></p>]]></message>
+<createdAt>2024-09-23T10:08:58Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555668072">
+<id />
+<message><![CDATA[<p><b>(if want to skip register/如果不想注册)</b> <a href="https://uploads.disquscdn.com/images/1de7afe1c904ecdf03a28354ac5346a44d9e70e0a116e331f431f891bffc1447.png" rel="nofollow noopener" target="_blank" title="https://uploads.disquscdn.com/images/1de7afe1c904ecdf03a28354ac5346a44d9e70e0a116e331f431f891bffc1447.png">https://uploads.disquscdn.c...</a></p>]]></message>
+<createdAt>2024-09-23T10:18:33Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6555810845">
+<id />
+<message><![CDATA[<p>Register? Oh no boos, too much trouble</p>]]></message>
+<createdAt>2024-09-23T14:43:47Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>命</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6582077035">
+<id />
+<message><![CDATA[<p>I am very interested in your real-time tracking project. Could you consider open-sourcing the code? I have already messaged you on LinkedIn and am very much looking forward to collaborating with you.I am very interested in your real-time tracking project. Could you consider open-sourcing the code? I have already messaged you on LinkedIn and am very much looking forward to collaborating with you.I am very interested in your real-time tracking project. Could you consider open-sourcing the code? I have already messaged you on LinkedIn and am very much looking forward to collaborating with you.I am very interested in your real-time tracking project. Could you consider open-sourcing the code? I have already messaged you on LinkedIn and am very much looking forward to collaborating with you.</p>]]></message>
+<createdAt>2024-10-31T05:14:27Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>true</isSpam>
+<author>
+<name>mahabi</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6582077086">
+<id />
+<message><![CDATA[<p>I am very interested in your real-time tracking project. Could you consider open-sourcing the code? I have already messaged you on LinkedIn and am very much looking forward to collaborating with you.</p>]]></message>
+<createdAt>2024-10-31T05:14:41Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>mahabi</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6696565931">
+<id />
+<message><![CDATA[<p>Splendid!</p>]]></message>
+<createdAt>2025-04-29T03:15:52Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>cheng</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6707470342">
+<id />
+<message><![CDATA[<p>omg, this is amazing.  <a href="https://media2.giphy.com/media/v1.Y2lkPTg5OGZmOWM5OGRvbmpncXVvZjBzdzAzYXVid211Y2dteTduMjA5ZTJ2dGxzbGhieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQAk13taTaKYw/giphy-downsized-small.mp4" rel="nofollow noopener" target="_blank" title="https://media2.giphy.com/media/v1.Y2lkPTg5OGZmOWM5OGRvbmpncXVvZjBzdzAzYXVid211Y2dteTduMjA5ZTJ2dGxzbGhieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQAk13taTaKYw/giphy-downsized-small.mp4">https://media2.giphy.com/me...</a></p>]]></message>
+<createdAt>2025-05-18T02:43:16Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>bobono</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6707531834">
+<id />
+<message><![CDATA[<p>check</p>]]></message>
+<createdAt>2025-05-18T07:22:52Z</createdAt>
+<isDeleted>true</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>kf chen</name>
+<isAnonymous>false</isAnonymous>
+<username>kf_chen</username>
+</author>
+<thread dsq:id="10542592090" />
+</post>
+<post dsq:id="6707531897">
+<id />
+<message><![CDATA[<p>Test</p>]]></message>
+<createdAt>2025-05-18T07:23:14Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>Thomas Müller</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10328486145" />
+</post>
+<post dsq:id="6707531932">
+<id />
+<message><![CDATA[<p>check</p>]]></message>
+<createdAt>2025-05-18T07:23:21Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>aa</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10542592090" />
+</post>
+<post dsq:id="6707531964">
+<id />
+<message><![CDATA[<p>hi</p>]]></message>
+<createdAt>2025-05-18T07:23:29Z</createdAt>
+<isDeleted>false</isDeleted>
+<isSpam>false</isSpam>
+<author>
+<name>aa</name>
+<isAnonymous>true</isAnonymous>
+</author>
+<thread dsq:id="10542592090" />
+</post>
+</disqus>
